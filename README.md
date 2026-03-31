@@ -7,3 +7,5 @@ A  simulated dataset of 100 rooms x 10,648 microphones x 5 sources for sound-fie
 - 2 example rooms, generating using the same configurations as described in the article, but limited to a image source order 5.
 - A small jupyter notebook showing a few examples on how to handle the dataset.
 
+Link to temporary test-dataset:
+https://www.dropbox.com/scl/fo/wb67dx5th54utuw2udszb/ALJI5ihSFuLVHaX2A-SaYCQ?rlkey=n7n0nzpwk00166g3mr6ziy12l&st=we50krbs&dl=0
